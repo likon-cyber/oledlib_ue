@@ -1,4 +1,7 @@
 # oledlib_ue
+This is library stm8s for OLED 128x64
+
+
 Библиотека для stm8s OLED дисплей 128х64
 
 Небольшая билиотека для работы в текстовом режиме.
